@@ -1,0 +1,1 @@
+# global-test-10052026-bellini-component

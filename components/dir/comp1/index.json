@@ -1,0 +1,36 @@
+{
+  "type": "custom-component",
+  "name": "comp1",
+  "children": [
+    {
+      "name": "h1",
+      "classList": [],
+      "children": [
+        {
+          "name": "text",
+          "textContent": "comp1",
+          "evaluate": false
+        }
+      ]
+    },
+    {
+      "name": "Breadcrumbs",
+      "nodeName": "bln-breadcrumbs",
+      "attributes": [
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "classList": [],
+      "children": [],
+      "type": "core-component",
+      "expressions": []
+    }
+  ],
+  "variables": [],
+  "bindings": [],
+  "modules": [],
+  "styles": [],
+  "parentDirectoryId": "pdWSQHs7Nvl4qkQBKMyp0"
+}

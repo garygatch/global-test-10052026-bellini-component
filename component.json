@@ -1,0 +1,55 @@
+{
+  "type": "component",
+  "name": "global-test-10052026",
+  "children": [
+    {
+      "name": "Button",
+      "nodeName": "bln-button",
+      "attributes": [
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "classList": [],
+      "children": [],
+      "type": "core-component",
+      "expressions": []
+    },
+    {
+      "name": "comp1",
+      "nodeName": "comp1",
+      "classList": [],
+      "children": [],
+      "type": "custom-component",
+      "ownerId": "6ac30827751b034ceab6e24a",
+      "ownerType": "component",
+      "expressions": []
+    },
+    {
+      "name": "comp2",
+      "nodeName": "comp2",
+      "classList": [],
+      "children": [],
+      "type": "custom-component",
+      "ownerId": "6ac30827751b034ceab6e24a",
+      "ownerType": "component",
+      "expressions": []
+    }
+  ],
+  "variables": [],
+  "bindings": [],
+  "modules": [],
+  "styles": [],
+  "directories": {
+    "assets": [],
+    "components": [
+      {
+        "id": "pdWSQHs7Nvl4qkQBKMyp0",
+        "name": "dir"
+      }
+    ],
+    "scripts": [],
+    "stylesheets": []
+  }
+}

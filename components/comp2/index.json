@@ -1,0 +1,35 @@
+{
+  "type": "custom-component",
+  "name": "comp2",
+  "children": [
+    {
+      "name": "h1",
+      "classList": [],
+      "children": [
+        {
+          "name": "text",
+          "textContent": "comp2",
+          "evaluate": false
+        }
+      ]
+    },
+    {
+      "name": "Badge",
+      "nodeName": "bln-badge",
+      "attributes": [
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "classList": [],
+      "children": [],
+      "type": "core-component",
+      "expressions": []
+    }
+  ],
+  "variables": [],
+  "bindings": [],
+  "modules": [],
+  "styles": []
+}
